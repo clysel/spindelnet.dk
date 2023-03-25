@@ -1,0 +1,22 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "om"
+title : "Om"
+content: |
+  Efter tiden som sikkerhedskonsulent, henvente kunder henvendt sig.<br>
+
+  SpindelNet blev oprettet som enkeltmandsvirksomhed i 1997 til at fakturere opgaver udført i fritiden:
+
+    <ul>
+      <li> Fejlsøgning af netværk og netværksapplikationer
+      <li> Rådgivning, dokumentation, installation og drift af
+      <ul>
+        <li> Firewall
+        <li> VPN
+        <li> MFA - multifaktor brugervalidering
+        <li> Hardning af servere og applikationer </ul>
+    </ul>
+
+
+
+image: "images/2.jpg"

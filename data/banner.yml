@@ -1,0 +1,14 @@
+####################### Banner #########################
+style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Spindelnet"
+subtitle: |
+  SpindelNet udføre penetreringstest på web applikationer og andre IP baseret løsninger.
+  Dette kan fx  udføres hvert kvartal til fastpris
+content : |
+  Ring 45 34 44 00<br>
+  Christian Lysel
+button:
+  label : "Om"
+  link : "#om"
+image : "images/1.jpg"
+
